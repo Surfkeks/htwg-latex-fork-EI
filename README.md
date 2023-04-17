@@ -1,4 +1,8 @@
-# HTWG Corporate Identity LaTeX Template
+# HTWG Corporate Identity LaTeX Template => adapted for the EI faculty
+
+Warning, the cover and title PDF have badly replaced icons, which could lead to ugly printing or pdf exports. It would be better to get the official EI covers from a professor.
+
+This was just done for a case study homework, and is not an official layout of the HTWG Konstanz. Use with care!
 
 [![Build Status](https://travis-ci.org/FunkeMT/htwg-latex.svg?branch=master)](https://travis-ci.org/FunkeMT/htwg-latex)
 
