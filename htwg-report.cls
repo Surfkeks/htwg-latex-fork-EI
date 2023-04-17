@@ -215,7 +215,7 @@
             \vfill
             \centering
             \includegraphics[height=\paperheight,width=\paperwidth,
-            keepaspectratio]{report_titel_page.pdf}%
+            keepaspectratio]{report_titel_page_custom_EI.pdf}%
             \vfill
         }
     }
@@ -300,7 +300,7 @@
         scale = 1, angle = 0, opacity = 1,
         contents = {\includegraphics[width = \paperwidth,
         height = \paperheight, keepaspectratio]
-        {report_cover_empty.pdf}}
+        {report_cover_empty_custom_EI.pdf}}
     }
 
     %% We need the this to perform coordinate calculations in TikZ.
