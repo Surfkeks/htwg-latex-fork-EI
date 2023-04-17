@@ -90,6 +90,7 @@
 	style=alphabetic,
 	sorting=ynt
 ]{biblatex}
+\usepackage{csquotes}
 \DefineBibliographyStrings{english}{%
   bibliography = {References},
 }
